@@ -1,6 +1,6 @@
 {
   "manifest_version": 1,
-  "version": 1,
+  "version": "1.0.2",
   "type": "APP",
   "desktop": {
     "js": [
@@ -31,6 +31,6 @@
     "en": "This sample plug-in displays the day of the week next to the Date field."
   },
   "homepage_url": {
-    "en": "https://developer.kintone.io/hc/en-us/articles/360010076614"
+    "en": "https://kintone.dev/en/plugins/simple-samples/show-dow-plug-in/"
   }
 }
