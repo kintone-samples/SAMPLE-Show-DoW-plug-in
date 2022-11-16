@@ -67,7 +67,7 @@ jQuery.noConflict();
     setDropDown();
     // Set input values when 'Save' button is clicked
     $form.on('submit', function(e) {
-      var config = [];
+      var config = {};
       var days = [];
       var date = $date.val();
       var sun = $sun.val();
